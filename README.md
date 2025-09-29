@@ -1,4 +1,19 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Task Management App
+
+A task management application built with Next.js.
+
+## Features
+- Add, edit, delete, and categorize tasks (Todo, Done, Review)
+- **Multi-language support** (implemented with next-i18next or similar)
+- Responsive UI design
+- Data stored via [localStorage/API]
+
+## Tech Stack
+- Next.js (App Router)
+- React.js
+- TailwindCSS / Material UI
+- next-i18next (for multilingual support)
 
 ## Getting Started
 
