@@ -1,19 +1,4 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-# Task Management App
-
-A task management application built with Next.js.
-
-## Features
-- Add, edit, delete, and categorize tasks (Todo, Done, Review)
-- **Multi-language support** (implemented with next-i18next or similar)
-- Responsive UI design
-- Data stored via [localStorage/API]
-
-## Tech Stack
-- Next.js (App Router)
-- React.js
-- TailwindCSS / Material UI
-- next-i18next (for multilingual support)
 
 ## Getting Started
 
@@ -29,7 +14,29 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+[API routes](https://nextjs.org/docs/api-# Task-Manager
+
+A task management application built with Next.js.
+
+## Features
+- Add, edit, delete, and categorize tasks (Todo, Done, Review)
+- **Multi-language support** (implemented with next-i18next)
+- Responsive UI design
+- Data stored via localStorage
+- Clean and modular code structure
+
+## Tech Stack
+- Next.js (App Router)
+- React.js
+- TypeScript
+- TailwindCSS / Material UI
+- next-i18next (for multilingual support)
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/zahraMotazediyan/Task-Manager.git
+routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
