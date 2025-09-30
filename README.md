@@ -28,7 +28,6 @@ A task management application built with Next.js.
 ## Tech Stack
 - Next.js (App Router)
 - React.js
-- TypeScript
 - TailwindCSS / Material UI
 - next-i18next (for multilingual support)
 
